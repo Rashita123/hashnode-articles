@@ -1,4 +1,4 @@
-## Binay Search Tree
+## Binary Search Tree
 
 ## Abstract
 
